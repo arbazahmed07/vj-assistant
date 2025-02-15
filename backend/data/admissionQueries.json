@@ -1,0 +1,156 @@
+[
+  {
+      "intent": "admission_criteria",
+      "patterns": [
+          "What are the eligibility criteria for B.Tech admission?",
+          "What qualifications are needed for admission?",
+          "Am I eligible for B.Tech admission?"
+      ],
+      "responses": [
+          "The eligibility criteria for B.Tech admission include a minimum percentage in Class 12 (typically 50%-60%) and qualification in entrance exams like JEE Mains or other state-level exams."
+      ]
+  },
+  {
+      "intent": "admission_process",
+      "patterns": [
+          "How do I apply for admission?",
+          "What is the admission procedure?",
+          "Can you explain the admission process?"
+      ],
+      "responses": [
+          "You can apply for admission through the college's official website. Fill out the application form, upload necessary documents, and pay the application fee."
+      ]
+  },
+  {
+      "intent": "management_quota",
+      "patterns": [
+          "What is the admission process through management quota?",
+          "Is there a management quota for admission?",
+          "How do I apply for admission via management quota?"
+      ],
+      "responses": [
+          "Yes, there is a management quota. Please contact the admission office for details on eligibility, documentation, and fees."
+      ]
+  },
+  {
+      "intent": "entrance_exams",
+      "patterns": [
+          "Are there any entrance exams required?",
+          "Which entrance exams do I need to take?",
+          "Is JEE mandatory for admission?"
+      ],
+      "responses": [
+          "Entrance exams like JEE Main or state-level exams are usually required for admission. Some programs may also accept management quota applications without entrance exams."
+      ]
+  },
+  {
+      "intent": "minimum_percentage",
+      "patterns": [
+          "What is the minimum percentage required in Class 12 for admission?",
+          "How much percentage do I need for B.Tech?",
+          "What are the academic requirements?"
+      ],
+      "responses": [
+          "The minimum percentage required in Class 12 for admission is typically 90%-95%, depending on the branch and category."
+      ]
+  },
+  {
+      "intent": "admission_dates",
+      "patterns": [
+          "When does the admission process start and end?",
+          "What are the important dates for admission?",
+          "When is the application deadline?"
+      ],
+      "responses": [
+          "The admission process usually starts in April and ends in July. For exact dates, please refer to the college's official website."
+      ]
+  },
+  {
+      "intent": "admission_status",
+      "patterns": [
+          "How can I check my admission status?",
+          "Where can I find the admission status?",
+          "How do I track my application?"
+      ],
+      "responses": [
+          "You can check your admission status by logging into the college's admission portal with your application ID."
+      ]
+  },
+  {
+      "intent": "counseling_sessions",
+      "patterns": [
+          "Are there any admission counseling sessions?",
+          "Does the college provide counseling for admission?",
+          "Is there an admission guidance program?"
+      ],
+      "responses": [
+          "Yes, the college organizes counseling sessions to guide students through the admission process and answer their queries."
+      ]
+  },
+  {
+      "intent": "available_branches",
+      "patterns": [
+          "What branches of engineering are available?",
+          "What are the available specializations?",
+          "Which engineering streams do you offer?"
+      ],
+      "responses": [
+          "The college offers branches like Computer Science, Electronics, Mechanical, Civil, and more. For the complete list, visit the official website."
+      ]
+  },
+  {
+      "intent": "curriculum_structure",
+      "patterns": [
+          "What is the curriculum structure for each branch?",
+          "Can you explain the course structure?",
+          "What subjects are included in the course?"
+      ],
+      "responses": [
+          "The curriculum includes core subjects, electives, labs, and project work. For a detailed syllabus, visit the academics section on the website."
+      ]
+  },
+  {
+      "intent": "fees_scholarships",
+      "patterns": [
+          "What is the total fee for the B.Tech program?",
+          "How much does the course cost?",
+          "What is the fee structure?"
+      ],
+      "responses": [
+          "The total fee for the B.Tech program varies by branch. Scholarships and installment options are also available."
+      ]
+  },
+  {
+      "intent": "hostel_facilities",
+      "patterns": [
+          "Is hostel accommodation available?",
+          "What are the hostel fees?",
+          "Can I get a hostel room?"
+      ],
+      "responses": [
+          "Yes, hostel accommodation is available with options for single or shared rooms. For fees and facilities, contact the hostel office."
+      ]
+  },
+  {
+      "intent": "placement_opportunities",
+      "patterns": [
+          "What are the placement records of the college?",
+          "Which companies visit for campus placements?",
+          "What is the average package offered?"
+      ],
+      "responses": [
+          "The college has an excellent placement record, with top recruiters offering competitive salary packages. For detailed placement statistics, visit the placement cell section on the website."
+      ]
+  },
+  {
+      "intent": "contact_support",
+      "patterns": [
+          "What are the contact details for the admission office?",
+          "How can I visit the campus?",
+          "Is there an admission helpline?"
+      ],
+      "responses": [
+          "You can contact the admission office at +91-XXXXXXXXXX or email admissions@college.edu. Campus visits are available by appointment."
+      ]
+  }
+]
